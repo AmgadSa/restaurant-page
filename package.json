@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Restaurant homepage design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmgadSa/restaurant-page.git"
+  },
+  "author": "Amgad Salem",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AmgadSa/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/AmgadSa/restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
